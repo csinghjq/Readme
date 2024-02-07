@@ -1,5 +1,4 @@
-# Readme
-![](https://komarev.com/ghpvc/?username=csinghjq&color=green)
+![](https://komarev.com/ghpvc/?username=manu2551988&color=green)
 
 ### 👉 Let's Connect!
 
@@ -40,7 +39,7 @@ I'm not actively looking for a job change, but I'm always open to networking and
 
 ### 🌐 Cloud Platforms:
 
-- [<img src="https://img.icons8.com/color/48/000000/aws.png" width="40" height="40"/>](https://aws.amazon.com/)AWS (Amazon Web Services)
+- [<img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/>](https://aws.amazon.com/)AWS (Amazon Web Services)
   - Compute: EC2, Lambda
   - Storage: S3
   - Networking: VPC
