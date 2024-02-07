@@ -28,7 +28,7 @@ I'm not actively looking for a job change, but I'm always open to networking and
 
 #### Tools:
 
-[<img src="https://img.icons8.com/fluent/48/000000/intellij-idea.png" width="40" height="40"/>](https://www.jetbrains.com/idea/) 
+[<img src="https://img.icons8.com/fluent/48/000000/intellij-idea.png" width="40=" height="40"/>](https://www.jetbrains.com/idea/) 
 [<img src="https://img.icons8.com/fluent/48/000000/pycharm.png" width="40" height="40"/>](https://www.jetbrains.com/pycharm/) 
 [<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="40" height="40"/>](https://code.visualstudio.com/)
 [<img src="https://img.icons8.com/fluent/48/000000/android-os.png" width="40" height="40"/>](https://developer.android.com/studio)
@@ -39,7 +39,7 @@ I'm not actively looking for a job change, but I'm always open to networking and
 
 ### 🌐 Cloud Platforms:
 
-- [<img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/>](https://aws.amazon.com/)AWS (Amazon Web Services)
+- [<img src="https://skillicons.dev/icons?i=aws" width="20" height="20"/>](https://aws.amazon.com/)AWS (Amazon Web Services)
   - Compute: EC2, Lambda
   - Storage: S3
   - Networking: VPC
